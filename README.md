@@ -26,11 +26,12 @@
 
 
 
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1900Iam&layout=compact&theme=github_white&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1900Iam&layout=compact&count_private=true&theme=github_white&langs_count=5">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=1900Iam&Acount_private=true&show_icons=trueline_height=21&theme=github_white">	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=1900Iam&count_private=true&show_icons=trueline_height=21&theme=github_white">	
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1900Iam&theme=github_white">
