@@ -1,7 +1,8 @@
 <!-- HEADER-->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Steven%20Romero%20(1900Iam)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
+<img src="https://capsule-render.vercel.app/api?color=0:020024,11:041736,78:79979D&height=250&section=header&text=Steven%20Romero%20(1900Iam)&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn"
+alt="header"/>
+
 </div>
 
 
