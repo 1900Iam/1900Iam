@@ -17,7 +17,7 @@ alt="header"/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,c,javascript,typescript,java" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,figma,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,figma,git" />
 </div>
 
 
